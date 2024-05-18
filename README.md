@@ -1,0 +1,3 @@
+- It is a Simple Digital Clock By 8051
+- it’s a testament to precision and functionality, displaying time in a 24-hour format and keeping you up-to-date with the current date.
+- it also greets you with the day’s name and smartly indicates whether it’s AM or PM, ensuring you’re always on track
